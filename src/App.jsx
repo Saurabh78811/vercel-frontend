@@ -17,7 +17,7 @@ import getCreatorCourse from './customHooks/getCreatorCourse.js'
 import getPublishedCourses from './customHooks/getPublishedCourses.js'
 import AllCourses from './pages/AllCourses.jsx'
 
-export const serverUrl= "http://localhost:8000"
+export const serverUrl= "https://vercel-backend-ptp5.vercel.app/"
 
 
 const App = () => {
